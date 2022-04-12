@@ -1,0 +1,12 @@
+.link {
+  margin-right: 50px;
+  padding: 7px;
+  font-size: 14px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.link.active {
+  color: #fff;
+  background-color: #000;
+}

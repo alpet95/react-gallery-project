@@ -1,5 +1,9 @@
+import React from "react";
+// ========== components ==========
+import Gallery from "./components/Gallery";
+
 function App() {
-  return;
+  return <Gallery />;
 }
 
 export default App;
