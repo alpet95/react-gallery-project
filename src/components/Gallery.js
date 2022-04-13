@@ -44,7 +44,7 @@ const Gallery = () => {
 
   return (
     <div className={classes.gallery} id="gallery">
-      <h1 className={classes.heading}>Gallery</h1>
+      <h1 className={classes.heading}>Country Gallery</h1>
 
       {/* ========== gallery categories ========== */}
       <ul className={classes.list}>
