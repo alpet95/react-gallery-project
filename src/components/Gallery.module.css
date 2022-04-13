@@ -39,6 +39,9 @@
 }
 
 @media screen and (max-width: 480px) {
+  .heading {
+    margin-top: 1rem;
+  }
   .list {
     flex-direction: column;
     text-align: center;
